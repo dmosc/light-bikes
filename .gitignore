@@ -1,0 +1,7 @@
+.gradle
+build
+.idea
+.env
+vcs.xml
+uiDesigner.xml
+misc.xml
